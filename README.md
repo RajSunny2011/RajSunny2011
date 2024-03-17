@@ -5,5 +5,4 @@
 - 🌱 I’m presently learning C++
 - 💬My hobbies are Playing Video Games and Cricket
 
-- ⚡ Fun fact about me :   *I like Souls-borne games*
 
